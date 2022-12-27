@@ -8,21 +8,21 @@ import image3 from '../assets/image3.jpg'
 const cards = [
   {
     id: 1,
-    title: "Fazt Web",
+    title: "My Portfolio",
     image: image1,
-    url: "https://faztweb.com",
+    url: "https://portfolio-puce-iota-63.vercel.app/",
   },
   {
     id: 2,
-    title: "Fazt Blog",
+    title: "ecommerce",
     image: image2,
-    url: "https://blog.faztweb.com",
+    url: "https://vercel.com/juanma-cyber/virtual-shop",
   },
   {
     id: 3,
-    title: "Fazt Youtube",
+    title: "Linkedin",
     image: image3,
-    url: "https://youtube.com/fazttech",
+    url: "https://www.linkedin.com/in/juan-manuel-ram%C3%ADrez-0788511b5/",
   },
   
   
